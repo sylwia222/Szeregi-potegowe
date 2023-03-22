@@ -1,0 +1,13 @@
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.csproj.AssemblyReference.cache
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.csproj.SuggestedBindingRedirects.cache
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.KokpitProjektu2_Karpowicz.resources
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.Properties.Resources.resources
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.csproj.GenerateResource.cache
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.csproj.CoreCompileInputs.cache
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\projekt2_Karpowicz\bin\Debug\projekt2_Karpowicz.exe.config
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\projekt2_Karpowicz\bin\Debug\projekt2_Karpowicz.exe
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\projekt2_Karpowicz\bin\Debug\projekt2_Karpowicz.pdb
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.exe
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.pdb
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.SzeregLaboratoryjny.resources
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.SzeregIndywidualny.resources

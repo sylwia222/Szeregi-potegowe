@@ -1,0 +1,13 @@
+C:\Users\Sylwia\Downloads\projekt2_Karpowicz-20230322T071907Z-001\projekt2_Karpowicz\bin\Debug\projekt2_Karpowicz.exe.config
+C:\Users\Sylwia\Downloads\projekt2_Karpowicz-20230322T071907Z-001\projekt2_Karpowicz\bin\Debug\projekt2_Karpowicz.exe
+C:\Users\Sylwia\Downloads\projekt2_Karpowicz-20230322T071907Z-001\projekt2_Karpowicz\bin\Debug\projekt2_Karpowicz.pdb
+C:\Users\Sylwia\Downloads\projekt2_Karpowicz-20230322T071907Z-001\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz61959.csproj.AssemblyReference.cache
+C:\Users\Sylwia\Downloads\projekt2_Karpowicz-20230322T071907Z-001\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz61959.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sylwia\Downloads\projekt2_Karpowicz-20230322T071907Z-001\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.KokpitProjektu2_Karpowicz.resources
+C:\Users\Sylwia\Downloads\projekt2_Karpowicz-20230322T071907Z-001\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.Properties.Resources.resources
+C:\Users\Sylwia\Downloads\projekt2_Karpowicz-20230322T071907Z-001\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.SzeregIndywidualny.resources
+C:\Users\Sylwia\Downloads\projekt2_Karpowicz-20230322T071907Z-001\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.SzeregLaboratoryjny.resources
+C:\Users\Sylwia\Downloads\projekt2_Karpowicz-20230322T071907Z-001\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz61959.csproj.GenerateResource.cache
+C:\Users\Sylwia\Downloads\projekt2_Karpowicz-20230322T071907Z-001\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz61959.csproj.CoreCompileInputs.cache
+C:\Users\Sylwia\Downloads\projekt2_Karpowicz-20230322T071907Z-001\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.exe
+C:\Users\Sylwia\Downloads\projekt2_Karpowicz-20230322T071907Z-001\projekt2_Karpowicz\obj\Debug\projekt2_Karpowicz.pdb
